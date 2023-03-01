@@ -1,11 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>
-    Anger Solutions - Memes
-</title>
+    <title>
+        Anger Solutions - Memes
+    </title>
+    <script>
+        var memes = [
+            'bathroom-timeout.jpg',
+            'careful.jpg',
+            'challenge-and-change.jpg',
+            'change.png',
+            'courage.jpg',
+            'dont-fake-it.jpg',
+            'good-people.jpg',
+            'henry-rollins.jpg',
+            'never-angry.png',
+            'now-or-never.jpg',
+            'perspective.jpg',
+            'response.jpg',
+            'strong-alone.png',
+            'strong-button.jpg',
+            'triggers.jpg',
+            'understanding.jpg'
+        ];
+        
+        function randomMeme() {
+            var random_number = Math.floor(Math.random() * 16);
+            
+            document.getElementById('meme').attribute = memes[random_number];
+        }
+    </script>
 </head>
 <body>
-    Comming soon...
+    <img src="" id="meme" />
+    
+    <script>
+        randomMeme();
+    </script>
 </body>
 </html>
