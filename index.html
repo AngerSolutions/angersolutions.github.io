@@ -57,60 +57,49 @@
             list-style-position: inside;
             margin: 0;
             padding: 40px;
-            text-align: left;
+            text-align: center;
             width: 32em;
         } li {
             padding: 2px;
         }
-    </style>
-    
-    <script src="https://www.paypal.com/sdk/js?client-id=ATE6yWx825EpXEDi3AWrYkj9ZJcyy2AiYAAEY3pwHmPVDi0BAzGJcm_uTewoZkBQNhChkcD8m7cgSQPn&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
-    <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'rect',
-          color: 'black',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"Link to Group","amount":{"currency_code":"USD","value":30}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
+        
+        .topnav {
+          /*background-color: #333;*/
+          overflow: hidden;
         }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-    </script>
+        .topnav a {
+          float: left;
+          /*color: #f2f2f2;*/
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+        }
+        .topnav a:hover {
+          /*background-color: #ddd;*/
+          color: black;
+        }
+        .topnav a.active {
+          /*background-color: #04AA6D;*/
+          color: white;
+        }
+    </style>
 </head>
+
 <body>
     <div id="wrapper">
     <div id="centered">
         <h1>Anger Solutions</h1>
         <h2>Anger Management in Central Oregon</h2>
+        <div class="topnav">
+            <a class="active" href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/memes">Memes</a>
+            <a href="/onboard">Onboard</a>
+            <a href="/relax">Relax</a>
+            <a href="/resources">Resources</a>
+            <a href="/rules">Rules</a>
+        </div>
         <h3>
             <a href="tel:5413832961">&#x260F 541-383-2961</a>
             <a href="mailto:anger.mgmt@protonmail.com">&#x2709 anger.mgmt@pm.me</a>
@@ -124,17 +113,7 @@
             <li>Honesty</li>
             <li>Honest attempt to do work</li>
         </ul>
-
-        <div id="smart-button-container">
-            <div style="text-align: center;">
-                <div id="paypal-button-container">
-                </div>
-            </div>
-        </div>
-        
     </div>
     </div>
-    <p><em>Enlarge buttons with pinch zooming and view page in "desktop mode" to cause the Venmo button to appear.
-    </em></p>
 </body>
 </html>
