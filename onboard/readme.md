@@ -15,6 +15,6 @@
 * [DocFly.com (online)](https://www.docfly.com/sign-pdf)
 * [Adobe Acrobat (online)](https://www.adobe.com/acrobat/online/sign-pdf.html)
 
-...or simply print each page, fill it in with ink, and then take a legible photo of it.
+...or simply print each page, fill it in with pencil, and then take a legible photo of it.
 
 📨 Attach the photos of the completed paperwork in an email addressed to: <anger.mgmt@protonmail.com>
