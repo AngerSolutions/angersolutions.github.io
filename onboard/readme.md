@@ -6,14 +6,15 @@
 ---
 
 🖋️ Fill them out electronically, using something like one of the following...
-* [Adobe Fill & Sign (mobile)](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) 📱
-* [Adobe Reader (desktop)](https://get.adobe.com/reader)
-* [Firefox Browser (desktop)](https://www.mozilla.org/en-US/firefox/new)
-* [Edge Browser (desktop)](https://www.microsoft.com/edge)
-* [Foxit Reader (desktop)](https://www.foxitsoftware.com/pdf-reader)
-* [Mac Preview (sign w/ trackpad)](https://support.apple.com/guide/preview/welcome/mac)
-* [DocFly.com (online)](https://www.docfly.com/sign-pdf)
-* [Adobe Acrobat (online)](https://www.adobe.com/acrobat/online/sign-pdf.html)
+* 📱 [Adobe Fill & Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) (mobile)
+* 🖥️ [Adobe Reader](https://get.adobe.com/reader) (desktop)
+* 🖥️ [Firefox Browser](https://www.mozilla.org/en-US/firefox/new) (desktop)
+* 🖥️ [Edge Browser](https://www.microsoft.com/edge) (desktop)
+* 🖥️ [Foxit Reader](https://www.foxitsoftware.com/pdf-reader) (desktop)
+* 🖥️ [Xournal++](https://xournalpp.github.io/) (desktop)
+* 🖥️ [Mac Preview (sign w/ trackpad)](https://support.apple.com/guide/preview/welcome/mac) (desktop)
+* 🌐 [DocFly.com](https://www.docfly.com/sign-pdf) (online)
+* 🌐 [Adobe Acrobat](https://www.adobe.com/acrobat/online/sign-pdf.html) (online)
 
 ...or simply print each page, fill it in with a pencil, and then take a legible photo of it.
 
