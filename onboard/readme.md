@@ -28,20 +28,19 @@ Onboard - Anger Solutions
 _*Alternatively, you may simply print each page, fill them in with pencil, and take legible photos._
 
 
-📨 3. Email Documents
----------------------
-
-Attach and email the completed forms...
+📨 3. Email Paperwork
+--------------------
 
     From: YOUR NAME <your-email@example.com>
     To: Anger Solutions <anger.mgmt@protonmail.com>
+    Subject: Onboard Paperwork
 
     * I agree, by my own will, to conduct this transaction electronically.
     * The initials and signatures on the attached paperwork (images or PDF) are mine, and symbolize my consent to the terms and conditions.
     * I, FIRST MIDDLE LASTNAME, consent and agree to comply with the attached electronic documentation as presented and in its entirety.
 
 
-_Don't forget to **attach the completed paperwork** to the email and address it to: <anger.mgmt@protonmail.com>_
+_**Attach and email the completed forms to: <anger.mgmt@protonmail.com>**_
 
 
 📋 4. Next Step
