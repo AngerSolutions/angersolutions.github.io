@@ -13,17 +13,17 @@ A Bordo - Soluciones para la Ira
 ----------------------------
 
 * 📱 _Móvil_
-    - [Adobe Fill & Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html)
+    - [Adobe Fill & Sign](https://www.adobe.com/mx/acrobat/mobile/fill-sign-pdfs.html)
 * 🖥️ _Escritorio_
     - [Adobe Reader](https://get.adobe.com/reader)
-    - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new)
-    - [Edge Browser](https://www.microsoft.com/edge)
-    - [Foxit Reader](https://www.foxitsoftware.com/pdf-reader)
+    - [Firefox Browser](https://www.mozilla.org/es-MX/firefox/new/)
+    - [Edge Browser](https://www.microsoft.com/es-mx/edge/download)
+    - [Foxit Reader](https://www.foxit.com/es-la/pdf-reader/)
     - [Xournal++](https://xournalpp.github.io/)
-    - [Mac Preview (sign w/ trackpad)](https://support.apple.com/guide/preview/welcome/mac)
+    - [Mac Preview (sign w/ trackpad)](https://support.apple.com/es-mx/guide/preview/welcome/mac)
 * 🌐 _En línea_
     - [DocFly.com](https://www.docfly.com/sign-pdf)
-    - [Adobe Acrobat](https://www.adobe.com/acrobat/online/sign-pdf.html)
+    - [Adobe Acrobat](https://www.adobe.com/mx/acrobat/online/sign-pdf.html)
 
 _*Alternativamente, simplemente puede imprimir cada página, rellenarlas con lápiz y tomar fotos legibles._
 
