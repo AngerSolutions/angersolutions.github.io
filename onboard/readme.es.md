@@ -36,7 +36,7 @@ _*Alternativamente, simplemente puede imprimir cada página, rellenarlas con lá
     Asunto: Papeleo a bordo
 
     * Acepto, por mi propia voluntad, realizar esta transacción electrónicamente.
-    * Las iniciales y firmas en la documentación adjunta (imágenes o PDF) son mías y simbolizan mi consentimiento a los términos y condiciones..
+    * Las iniciales y firmas en la documentación adjunta (imágenes o PDF) son mías y simbolizan mi consentimiento a los términos y condiciones.
     * Yo, PRIMER SEGUNDO APELLIDO, consiento y acepto cumplir con la documentación electrónica adjunta tal como se presenta y en su totalidad.
 
 
