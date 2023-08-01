@@ -12,7 +12,7 @@ It's expected that participants are willing and ready to confront thinking patte
 * The best way to contact me is: [anger.mgmt@protonmail.com](mailto:anger.mgmt@protonmail.com) or by leaving a voicemail: [541-383-2961](tel:5413832961)
 * You can drop into a group as soon as you've received your workbook and completed the on-boarding session.
 * Each group is ideally kept to around 4 people.
-* Everything is **100% online**. _Paper forms will be mailed with the workbook for people who prefer to avoid electronic forms._
+* Everything is **100% online**. _Paper forms are mailed with the workbook for those who would prefer them._
 * The program **must be completed within 12 weeks** once participants have attended their first group session. It's rare for someone to completely fail out of the program. But **it's typical for each client to need to redo a module** or two which entails paying for and attending additional sessions.
 * Group participants are encouraged to **reach out for help & clarification throughout the week**. So if one puts in the extra effort then they can minimize or even eliminate needing to repeat any modules.
 
