@@ -13,8 +13,9 @@ It's expected that participants are willing and ready to confront thinking patte
 * You can drop into a group as soon as you've received your workbook and completed the on-boarding session.
 * Each group is ideally kept to around 4 people.
 * Everything is **100% online**. _Paper forms are mailed with the workbook for those who would prefer them._
-* The program **must be completed within 12 weeks** once participants have attended their first group session. It's rare for someone to completely fail out of the program. But **it's typical for each client to need to redo a module** or two which entails paying for and attending additional sessions.
-* Group participants are encouraged to **reach out for help & clarification throughout the week**. So if one puts in the extra effort then they can minimize or even eliminate needing to repeat any modules.
+* The program **must be completed within 12 weeks** once participants have attended their first group session.
+*  It's rare for someone to completely fail out of the program. But **it's typical for each client to need to redo a module** or two which entails paying for and attending additional group sessions.
+* Group participants are encouraged to **reach out for help & clarification throughout the week**. _(At no extra cost!)_  So if one puts in the extra effort then they can minimize the likelihood of redoing a module.
 
 [Click here to start the onboarding process...](https://angersolutions.github.io/onboard)
 
