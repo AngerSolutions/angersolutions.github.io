@@ -18,4 +18,4 @@ It's expected that participants are willing and ready to confront thinking patte
 
 [Click here to start the onboarding process...](https://angersolutions.github.io/onboard)
 
-Please feel free to [call](tel:541-383-2961) me or [email](mailto:anger.mgmt@protonmail.com) me if you have any questions! 
+Please feel free to [call](tel:541-383-2961) or [email](mailto:anger.mgmt@protonmail.com) if you have any questions! 
