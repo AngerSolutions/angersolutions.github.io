@@ -71,7 +71,7 @@ RULES FOR GROUP - Subject to change without notice
   However, confidentiality can NOT be guaranteed.  
   So do NOT admit to any specific crimes.  
 * If you think you might cut it close making it to group on-time then take your workbook, a pencil, and phone with you so you can still participate.
-* Show up, even if you didn't complete your homework, if you want your weekly report to state you were "present" and "in compliance".
+* Show up, even if you didn't complete your homework, to allow your weekly report to state you were "present" and "in compliance".
 * You're encouraged to CHIME IN when you have additional ideas about the portion of the module we're covering;  
   So ask clarifying questions and offer relevant & appropriate comments on answers given by others.
 * Any disrespect to this group will REQUIRE AN APOLOGY.  
