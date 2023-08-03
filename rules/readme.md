@@ -28,7 +28,7 @@ RULES FOR GROUP - Subject to change without notice
 * All images MUST be upright and legible.
 * Homework will NOT be "reviewed" after submission.  
   Iron out any issues with your homework BEFORE SUBMITTING it, by asking specific questions.
-* ALWAYS SEND ONE COMPLETE HOMEWORK SUBMISSION, per week, in its very own email.
+* ALWAYS SEND ONE COMPLETE HOMEWORK SUBMISSION, per week, in its very own email.  
   Each homework submission MUST be in its own, fresh email.  
   --Not in a reply to some other thread.
 * Only ONE homework attachment is allowed, per week.  
