@@ -1,8 +1,8 @@
 RULES FOR GROUP - Subject to change without notice
 ===============
 
-EMAIL
------
+📨 EMAIL
+--------
 
 * <span style="background:pink;color:white">FOLLOW **ALL** DIRECTIONS **VERY** CAREFULLY.</span>
 * ALWAYS send a new email for EACH question;
@@ -19,8 +19,8 @@ EMAIL
   <span style="background:pink;color:white">When in doubt: **Dial (541)383-2961** and **LEAVE A VOICE MESSAGE.**</span>
 
 
-HOMEWORK
---------
+✏️ HOMEWORK
+-----------
 
 * PRINT answers, DO NOT USE CURSIVE, so it's easy to read.
 * USE A PENCIL so answers are easy to change, as necessary.
@@ -43,8 +43,8 @@ HOMEWORK
 * _Additional homework may be assigned at ANY time._
 
 
-CONNECTION
-----------
+📶 CONNECTION
+-------------
 
 * Your device is expected to be plugged in, at ALL times.  
   If your battery is dying do NOT interrupt the group.  
@@ -54,8 +54,8 @@ CONNECTION
   --The group will continue without you.
 
 
-PARTICIPATION
--------------
+🗣️ PARTICIPATION
+----------------
 
 * This is NOT counseling;  
   This is NOT therapy;  
@@ -93,8 +93,8 @@ PARTICIPATION
   (Otherwise they are just "excuses".  See next section.)
 
 
-EXCUSES ARE NEVER ALLOWED
--------------------------
+🚯 EXCUSES ARE NEVER ALLOWED
+----------------------------
 
 * ***MINIMIZING:***
     - "It only happened once ..."
@@ -120,7 +120,7 @@ EXCUSES ARE NEVER ALLOWED
 
 ---
 
-***Put into practice what you've learned, each week:***
+💡 ***Put into practice what you've learned, each week:***
 - Body \<- listen to it! _(sensations)_
 - Gameplan \<- have one! _(timeout & think)_
 - Tools \<- use them! _(relaxation practices)_
