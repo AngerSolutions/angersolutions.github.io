@@ -9,7 +9,7 @@ RULES FOR GROUP - Subject to change without notice
 * Do NOT reply to old or unrelated email threads.
 * Do NOT combine emails;  
   ONLY ONE SUBJECT per message.
-* DO NOT FORWARD ANGER SOLUTION'S EMAILS TO OTHERS.
+* DO NOT FORWARD ANY OF ANGER SOLUTION'S EMAILS TO OTHERS.
 * Do NOT give out the Group Facilitator's email address or CC anyone to it.  
   Use anger.mgmt@protonmail.com instead.
 * Typically emails are deleted, for privacy reasons, after viewing them.  
