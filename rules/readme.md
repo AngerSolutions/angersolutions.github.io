@@ -4,19 +4,19 @@ RULES FOR GROUP - Subject to change without notice
 📨 EMAIL
 --------
 
-* <span style="background:pink;color:white">FOLLOW **ALL** DIRECTIONS **VERY** CAREFULLY.</span>
+* FOLLOW **ALL** DIRECTIONS **VERY** CAREFULLY.
 * ALWAYS send a new email for EACH question;
 * Do NOT reply to old or unrelated email threads.
 * Do NOT combine emails;  
   ONLY ONE SUBJECT per message.
 * DO NOT FORWARD ANY EMAIL FROM ANGER SOLUTIONS TO OTHERS.
-* Do NOT give out the Group Facilitator's email address or CC anyone to it.  
-  Use anger.mgmt@protonmail.com instead.
+* Do NOT give out the Group Facilitator's email address, nor CC anyone to it.  
+  Give them [anger.mgmt@protonmail.com](mailto:anger.mgmt@protonmail.com) instead.
 * Typically emails are deleted, for privacy reasons, after viewing them.  
   Please do NOT assume Anger Solutions still has them.
 * Put each question in it's own, fresh, email;  
   Do NOT revive old or unrelated threads.  
-  <span style="background:pink;color:white">When in doubt: **Dial (541)383-2961** and **LEAVE A VOICE MESSAGE.**</span>
+  When in doubt: **Dial <a href="tel:5413832961">(541)383-2961</a>** and **LEAVE A VOICE MESSAGE.**
 
 
 ✏️ HOMEWORK
