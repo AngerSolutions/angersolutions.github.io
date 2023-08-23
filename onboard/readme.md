@@ -5,8 +5,8 @@ Onboard - Anger Solutions
 📄 1. Required Forms
 --------------------
 
-* [On-boarding Paperwork Packet](https://github.com/AngerSolutions/angersolutions.github.io/raw/main/onboard/Onboarding-AngerSolutions.pdf)
-* [Release of Information (ROI)](https://github.com/AngerSolutions/angersolutions.github.io/raw/main/onboard/ROI-AngerSolutions.pdf) _(as needed)_
+* [On-boarding Paperwork packet](https://github.com/AngerSolutions/angersolutions.github.io/raw/main/onboard/Onboarding-AngerSolutions.pdf)
+* [Release of Information (ROI) form](https://angersolutions.us/onboard/roi-paperwork.html) _- Complete an ROI for each individual or agency which your status will need to be reported to._
 
 
 🖋️ 2. Signing Tools*
