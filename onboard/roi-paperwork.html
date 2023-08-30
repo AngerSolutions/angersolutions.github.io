@@ -3,7 +3,6 @@
 <head>
     <meta charset="Windows-1252" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <script src="html2pdf.bundle.min.js">YOU MUST ENABLE JAVASCRIPT IN YOUR BROWSER FOR THIS TO WORK!</script>
     <style>
         body {
             margin: 1em;
@@ -29,6 +28,12 @@
             min-width: 40em;
             padding: 2px 5px;
         }
+        .name {
+            text-transform: capitalize;
+        }
+        .id {
+            text-transform: uppercase;
+        }
 
         /**
          * Make bullet-points non-utf-8 for pdf render.
@@ -49,7 +54,7 @@
     </style>
 </head>
 <body>
-
+<script src="html2pdf.bundle.min.js">YOU MUST ENABLE JAVASCRIPT IN YOUR BROWSER FOR THIS TO WORK!</script>
     <form id="form">
         <h1>
             Authorization for Release of Information
@@ -64,7 +69,7 @@
         <label>
             NAME:
             <br />
-            <input type="text" autofocus="true" />
+            <input type="text" class="name" autofocus="true" />
         </label>
         <label>
             DATE OF BIRTH:
@@ -74,7 +79,7 @@
         <label>
             DRIVER LICENSE / ID NUMBER:
             <br />
-            <input type="text" />
+            <input type="text" class="id" />
         </label>
         <h3>
             I authorize Anger Solutions of Bend, Oregon to provide
@@ -86,7 +91,7 @@
         <label>
             NAME:
             <br />
-            <input type="text" />
+            <input type="text" class="name" />
         </label>
         <label>
             EMAIL ADDRESS:
@@ -159,7 +164,7 @@
             FULL NAME (or other mark) symbolizing your understanding,
             agreement, and consent with all of the above information:
             <br />
-            <input type="text" />
+            <input type="text" style="text-transform:uppercase;" />
         </label>
         <label>
             DATE:
