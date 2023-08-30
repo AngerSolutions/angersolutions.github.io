@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="Windows-1252">
+    <script src="html2pdf.bundle.min.js"></script>
+    <style>
+        form {
+            font-family: sans-serif;
+            margin: 1em;
+        }
+        h2 {
+            margin-top: 2em;
+        }
+        label {
+            display: block;
+            margin-top: 1em;
+            max-width: 40em;
+        }
+        input[type="text"],
+        input[type="email"] {
+            min-width: 40em;
+        }
+
+        /**
+         * Make bullet-points non-utf-8.
+         */
+        ul {
+            list-style: none;
+            margin-left: 0;
+            padding-left: 0;
+        }
+        ul li {
+            padding-left: 1em;
+            text-indent: -1em;
+        }
+        ul li:before {
+            content: "•";
+            padding-right: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <form id="form">
+        <h2>
+            Personal Information
+        </h2>
+
+        <label for="name">
+            Name:
+        </label>
+        <input type="text" autofocus="true" />
+
+        <label for="dob">
+            Date of Birth:
+        </label>
+        <input type="date" />
+
+        <label for="address">
+            Address:
+        </label>
+        <input type="text" />
+
+        <label for="phone">
+            Phone Number:
+        </label>
+        <input type="tel" />
+
+        <label for="email">
+            Email:
+        </label>
+        <input type="email" />
+
+        <label for="referred">
+            Referred by:
+        </label>
+        <input type="text" />
+
+        <label>
+            <input type="checkbox" />
+            The personal information provided above is correct.
+        </label>
+        <span class="html2pdf__page-break"></span>
+
+
+        <h2>
+            Confidentiality Notice
+        </h2>
+        <h3><em>
+            Regarding Client Records and Information
+        </em></h3>
+        <p>
+            The confidentiality of client records maintained by this agency
+            is protected by Federal Law and regulations.  In general, this
+            program may not state to anyone outside the program that a client
+            attends the program, <u><b>unless:</b></u>
+        </p>
+        <ul>
+            <li>
+                The client consents, in writing.
+            </li>
+            <li>
+                The disclosure is allowed, or required by court order.
+            </li>
+            <li>
+                The disclosure is made to medical personnel in a medical
+                emergency, or to qualified personnel for research, audit,
+                or program review.
+            </li>
+            <li>
+                Stated threat of harm to self or others.
+            </li>
+        </ul>
+        <p>
+            Violation of the Federal regulations is a crime and may be
+            reported to the appropriate authorities in accordance with
+            Federal law.
+        </p>
+        <p>
+            The Federal law and regulations <u><b>do not</u></b> protect any information
+            about a crime committed by a client either at the program, or
+            against any person who works for the program, or any threat to
+            commit such a crime.  Nor does it the law protect any information
+            about suspected <u><b>child/elder abuse or neglect</u></b> which must be
+            reported under State law to appropriate State or Local
+            authorities.
+        </p>
+        <p>
+            (Refer to 42 CFR Part 2 for Federal regulations, a copy of which
+            may be obtained from the program office.)
+        </p>
+
+        <label>
+            <input type="checkbox" />
+            I have read and understand the confidentiality notice regarding
+            client records and information.
+        </label>
+        <span class="html2pdf__page-break"></span>
+
+
+        <h2>
+            Contract for Participation
+        </h2>
+
+        <label>
+            <input type="checkbox" />
+            I understand that if I have been court ordered to attend this
+            program, it has been documented that I have been violent.  A
+            requirement for participation in the program includes my taking
+            responsibility for my actions and talking about my violence.
+            In the event that I deny being violent, Anger Solutions will have
+            no choice but to refer me back to court.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I agree to attend a minimum of 8 group sessions with Anger
+            Solutions.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I understand that the group facilitator will report my attendance,
+            acts of violence, and an evaluation of my progress to the court
+            and/or their agents.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I understand that any violation of conditions of the program or
+            probation are grounds for removal from group and referral back
+            to court.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I understand that if I move, while I'm attending the program, I must notify this agency of change of address and that this program can only be provided within the state of Oregon, to Oregon residents.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I agree not to be violent with any person during my participation
+            in the "Coping With Anger" cognitive-behavorial program.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I understand that missing a group or redoing a module counts
+            as a "strike" and that after 5 strikes I will need to purchase a
+            new workbook and restart the program.
+        </label>
+        <label>
+            <input type="checkbox" />
+            I understand that the work materials for "Coping With Anger" are
+            my responsibility and that any lost or damaged materials will
+            need to be replaced at my expense.
+        </label>
+        <span class="html2pdf__page-break"></span>
+
+
+        <h2>
+            Fee Agreement
+        </h2>
+        <ul>
+            <li><b>$20.00</b> ... "Coping With Anger" workbook</li>
+            <li><b>$50.00</b> ... One time on-boarding session</li>
+            <li><b>$30.00</b> ... Each group (8 to 12 sessions)</li>
+        </ul>
+        <ul>
+            <label>
+                <input type="checkbox" />
+                I understand that any <b>additional groups are $30 each.</b>
+            </label>
+            <label>
+                <input type="checkbox" />
+                I understand fees estimates are based upon minimum requirements.
+            </label>
+            <label>
+                <input type="checkbox" />
+                I understand fees will be higher if my further participation is required.
+            </label>
+            <label>
+                <input type="checkbox" />
+                I understand that all fees are due at the time of service and
+                I won't be admitted into group until the fee is paid.
+            </label>
+            <label>
+                <input type="checkbox" />
+                I understand there are no refunds, for fees paid, if I am
+                closed non-compliant due to violating program rules or the
+                conditions of my probation / parole.
+            </label>
+        </ul>
+        <span class="html2pdf__page-break"></span>
+
+
+        <h2>
+            Group Rules &amp; Expectations
+        </h2>
+        <label>
+            <input type="checkbox" />
+            The "Coping With Anger" anger management group is designed to
+            assist each participant to develop an awareness of the impact of
+            "anger" in their life, develop an understanding of what causes
+            anger, and to provide each participant with some basic tools to
+            manage anger more effectively.  The treatment concepts and anger
+            management tools presented in this group are evidence based and
+            have demonstrated effectiveness in helping individuals manage
+            anger.  As with learning any new skills and behaviors, practice
+            is an essential part of getting the most from this group.
+        </label>
+        <label>
+            <input type="checkbox" />
+            All participants must sign a Release of Information (ROI) form
+            for their referring agent.  If you are unwilling to sign an ROI
+            or revoke your ROI to your referring agent then notification will
+            be made to your parole/probation officer and/or referring agent and you
+            will no longer be able to attend the group until you have discussed
+            the issue with your parole/probation officer.
+        </label>
+        <label>
+            <input type="checkbox" />
+            Participant progress and attendance at each group is reported to
+            the Court of supervision and/or responsible parole/probation
+            officer.
+        </label>
+        <label>
+            <input type="checkbox" />
+            The anger management group meets weekly, at 6:30 PM.
+        </label>
+        <label>
+            <input type="checkbox" />
+            Group participants will need to purchase the "Coping With Anger"
+            workbook, for $20, and read and complete Module 1 prior to the
+            first group session.
+        </label>
+        <label>
+            <input type="checkbox" />
+            Participants are required to have their device plugged-in and
+            their workbook, a pencil, and eraser with them, at each and every
+            meeting.
+        </label>
+        <label>
+            <input type="checkbox" />
+            The "Coping With Anger" program can be completed in 8 sessions.
+            However, if you do not complete your work to the satisfaction of
+            voting group members and/or the group facilitator, you will asked
+            to redo the work and re-present it the following week.
+        </label>
+        <label>
+            <input type="checkbox" />
+            Any additional group sessions will incur an additional cost of
+            $30 per session, due before that sessions begins.
+        </label>
+        <label>
+            <input type="checkbox" />
+            A participant will not be admitted to a session or may be dismissed
+            from a group session if:
+            <ol>
+                <li>
+                    They present as intoxicated or "high".
+                </li>
+                <li>
+                    They become verbally disruptive and/or threatening during
+                    the group.
+                </li>
+            </ol>
+        </label>
+        <label>
+            <input type="checkbox" />
+            Participants will not be admitted to a session if they do not
+            arrive prior to the beginning of the session and will not be
+            given credit for the session if they leave before being
+            dismissed, at the end of the session.
+        </label>
+        <label>
+            <input type="checkbox" />
+            If you are removed from a group session, it will count as one
+            absence, and you will be permitted to return to the next group
+            session after discussing the situation with your Court of
+            supervision and/or probation officer.
+        </label>
+
+        <span class="html2pdf__page-break"></span>
+
+        <label>
+            <input type="checkbox" />
+            Redoing modules and/or failing to attend the weekly group 5 times
+            (combined total) may result in "unsuccessful completion" of the
+            program and notification will be forwarded to your Court of
+            supervision and parole/probation officer.
+        </label>
+        <label>
+            <input type="checkbox" />
+            Participants are responsible for payment of all services.  All
+            fees must be paid at the time of service unless special
+            arrangements have been made.
+        </label>
+        <label>
+            <input type="checkbox" />
+            Completion letters / certificates will not be issued with any
+            outstanding fees.
+        </label>
+        <label>
+            <input type="checkbox" />
+            No violence or threats will be tolerated, and will result in
+            the participant being immediately dropped from the program, and
+            no refund will be issued.
+        </label>
+        <label>
+            <input type="checkbox" />
+
+        </label>
+
+
+
+
+
+        <input id="button"
+               type="button"
+               value="Generate PDF"
+               onclick="generate_pdf()"
+               style="margin:1em;"
+        />
+    </form>
+
+
+    <script>
+        function generate_pdf() {
+            var options = {
+                    margin: 0.5,
+                    enableLinks: true,
+                    filename: 'onboard-paperwork.pdf',
+                    html2canvas: { scale: 1 },
+                    image: {
+                            type: 'jpeg',
+                            quality: 0.98
+                    },
+                    jsPDF: {
+                            unit: 'in',
+                            format: 'letter',
+                            orientation: 'portrait'
+                    },
+                    pagebreak: {
+                            mode: 'legacy'
+                    }
+            }
+
+            document.getElementById('button').style.display = 'none';
+            var form = document.getElementById('form');
+            html2pdf(form, options);
+        }
+    </script>
+</body>
+</html>
