@@ -5,7 +5,7 @@ Onboard - Anger Solutions
 📄 Required Forms
 --------------------
 
-1. [On-boarding Paperwork packet](https://github.com/AngerSolutions/angersolutions.github.io/raw/main/onboard/onboard-paperwork.html)
+1. [On-boarding Paperwork packet](https://angersolutions.us/onboard/onboard-paperwork.html)
 2. [Release of Information (ROI) form](https://angersolutions.us/onboard/roi-paperwork.html) _(Complete an ROI for each individual or agency which your status will need to be reported to.)_
 
 
