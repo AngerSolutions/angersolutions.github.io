@@ -43,41 +43,49 @@
 <body>
 
     <form id="form">
+        <label style="margin: 2em">
+            <input type="checkbox" />
+            <em>
+                Place a checkmark, in each checkbox, ONLY if you have completely
+                read, completely understood, and completely agree with the entire
+                statement which immediately follows it.
+            </em>
+        </label>
         <h2>
             Personal Information
         </h2>
 
-        <label for="name">
+        <label>
             Name:
+            <input type="text" autofocus="true" />
         </label>
-        <input type="text" autofocus="true" />
-
-        <label for="dob">
-            Date of Birth:
-        </label>
-        <input type="date" />
-
-        <label for="address">
-            Address:
-        </label>
-        <input type="text" />
-
-        <label for="phone">
-            Phone Number:
-        </label>
-        <input type="tel" />
-
-        <label for="email">
-            Email:
-        </label>
-        <input type="email" />
-
-        <label for="referred">
-            Referred by:
-        </label>
-        <input type="text" />
 
         <label>
+            Date of Birth:
+            <input type="date" />
+        </label>
+
+        <label>
+            Address:
+            <input type="text" />
+        </label>
+
+        <label>
+            Phone Number:
+            <input type="tel" />
+        </label>
+
+        <label>
+            Email:
+            <input type="email" />
+        </label>
+
+        <label>
+            Referred by:
+            <input type="text" />
+        </label>
+
+        <label style="margin-top:2em">
             <input type="checkbox" />
             The personal information provided above is correct.
         </label>
@@ -131,7 +139,7 @@
             may be obtained from the program office.)
         </p>
 
-        <label>
+        <label style="margin-top:2em">
             <input type="checkbox" />
             I have read and understand the confidentiality notice regarding
             client records and information.
@@ -342,9 +350,19 @@
             the participant being immediately dropped from the program, and
             no refund will be issued.
         </label>
-        <label>
-            <input type="checkbox" />
 
+        <hr style="margin-top:3em" />
+
+        <label style="margin-top:2em">
+            <input type="checkbox" />
+            I,
+            <input type="text"
+                   placeholder="FULL LEGAL NAME"
+                   style="text-transform:uppercase"
+            />,
+            have read and understood and agree with
+            all of the information presented and I've placed a check mark in
+            each relevant box to indicate such.
         </label>
 
 
