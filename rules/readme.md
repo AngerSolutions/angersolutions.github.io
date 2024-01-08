@@ -1,44 +1,41 @@
-RULES FOR GROUP - Subject to change without notice
+RULES FOR GROUP
 ===============
+
+* _All rules subject to change without notice!_
+* Follow **ALL** directions **VERY** carefully.
+* When in doubt: **dial <a href="tel:5413832961">(541)383-2961</a>** and **leave a VOICE message.**
+
 
 📨 EMAIL
 --------
 
-* FOLLOW **ALL** DIRECTIONS **VERY** CAREFULLY.
-* ALWAYS send a new email for EACH question;
-* Do NOT reply to old or unrelated email threads.
-* Do NOT combine emails;  
-  ONLY ONE SUBJECT per message.
-* DO NOT FORWARD ANY EMAIL FROM ANGER SOLUTIONS TO OTHERS.
-* Do NOT give out the Group Facilitator's email address, nor CC anyone to it.  
+* ALWAYS send a new, fresh email for EACH question;  
+  DON'T reply to old or unrelated email threads.
+* DON'T combine emails;  
+  Only ONE subject per message.
+* DON'T include the module number unless it's your homework submission. (Page numbers are okay)
+* NEVER forward Anger Solutions' emails to others.
+* NEVER give out the Group Facilitator's email address, nor CC anyone to it.  
   Give them [anger.mgmt@protonmail.com](mailto:anger.mgmt@protonmail.com) instead.
-* Typically emails are deleted, for privacy reasons, after viewing them.  
-  Please do NOT assume Anger Solutions still has them.
-* Put each question in it's own, fresh, email;  
-  Do NOT revive old or unrelated threads.  
-  When in doubt: **Dial <a href="tel:5413832961">(541)383-2961</a>** and **LEAVE A VOICE MESSAGE.**
+* Emails are typically deleted, for privacy reasons, after viewing them.  
+  DON'T assume Anger Solutions still has access to any old emails.
 
 
 ✏️ HOMEWORK
 -----------
 
-* PRINT answers, DO NOT USE CURSIVE, so it's easy to read.
-* USE A PENCIL so answers are easy to change, as necessary.
-* You must EMAIL PHOTOS of your completed homework ONCE, EACH WEEK, BEFORE GROUP begins.
-* All images MUST be upright and legible.
-* Homework will NOT be "reviewed" after submission.  
-  Iron out any issues with your homework BEFORE SUBMITTING it, by asking specific questions.
-* ALWAYS SEND ONE COMPLETE HOMEWORK SUBMISSION, per week, in its very own email.  
-  Each homework submission MUST be in its own, fresh email.  
-  --Not in a reply to some other thread.
+* ALWAYS send ONE complete homework submission, EVERY week:
+  - BEFORE group begins.
+  - In its very own fresh email --NOT in a reply to some other thread.
+  - Subject line MUST include the module number.
+  - Images of pages MUST be upright and COMPLETELY legible.
+  - ALWAYS print answers, DON'T use cursive, so it's easy to read.
+  - ALWAYS a pencil so answers are easy to change, as necessary.
+
+* Homework WON'T be "reviewed" after submission.  
+  You can iron out issues with homework, BEFORE submitting it, by asking specific questions.
 * Only ONE homework attachment is allowed, per week.  
   --THAT is your homework submission.
-* Homework submissions MUST include the module number in the "Subject" line;  
-  ONLY homework submissions may reference the module number in the "Subject" line.
-* Do NOT place a module number in any other emails -- ONLY in your homework submission.
-* If you fail to EMAIL YOUR COMPLETED HOMEWORK,  
-  between the day following the current group and the next session,  
-  then you won't progress to the next module.
 * The previous week's assignment email submissions are NOT retained.
 * _Additional homework may be assigned at ANY time._
 
@@ -47,10 +44,10 @@ RULES FOR GROUP - Subject to change without notice
 -------------
 
 * Your device is expected to be plugged in, at ALL times.  
-  If your battery is dying do NOT interrupt the group.  
+  If your battery is dying DON'T interrupt the group.  
   Handle it on your own. It's NOT our problem.  
-* If your connection drops, REJOIN MUTED.  
-  Don't start apologizing when you reconnect.  
+* If your connection drops, rejoin MUTED.  
+  DON'T start apologizing when you reconnect.  
   --The group will continue without you.
 
 
