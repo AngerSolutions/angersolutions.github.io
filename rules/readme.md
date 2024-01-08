@@ -30,7 +30,7 @@ RULES FOR GROUP
   - Subject line MUST include the module number.
   - Images of pages MUST be upright and COMPLETELY legible.
   - ALWAYS print answers, DON'T use cursive, so it's easy to read.
-  - ALWAYS a pencil so answers are easy to change, as necessary.
+  - ALWAYS use a pencil so answers are easy to change, as necessary.
 
 * Homework WON'T be "reviewed" after submission.  
   You can iron out issues with homework, BEFORE submitting it, by asking specific questions.
