@@ -17,6 +17,7 @@ RULES FOR GROUP
 * NEVER forward Anger Solutions' emails to others.
 * NEVER give out the Group Facilitator's email address, nor CC anyone to it.  
   Give them [anger.mgmt@protonmail.com](mailto:anger.mgmt@protonmail.com) instead.
+* The [anger.mgmt@protonmail.com](mailto:anger.mgmt@protonmail.com) email address is ONLY for people that are NOT currently in the program.
 * Emails are typically deleted, for privacy reasons, after viewing them.  
   DON'T assume Anger Solutions still has access to any old emails.
 
@@ -25,13 +26,12 @@ RULES FOR GROUP
 -----------
 
 * ALWAYS send ONE complete homework submission, EVERY week:
-  - BEFORE group begins.
+  - To the group facilitator's email BEFORE group begins.
   - In its very own fresh email --NOT in a reply to some other thread.
   - Subject line MUST include the module number.
   - Images of pages MUST be upright and COMPLETELY legible.
   - ALWAYS print answers, DON'T use cursive, so it's easy to read.
   - ALWAYS use a pencil so answers are easy to change, as necessary.
-
 * Homework WON'T be "reviewed" after submission.  
   You can iron out issues with homework, BEFORE submitting it, by asking specific questions.
 * Only ONE homework attachment is allowed, per week.  
@@ -67,7 +67,7 @@ RULES FOR GROUP
   Wear headphones if anyone is nearby.  
   However, confidentiality can NOT be guaranteed.  
   So do NOT admit to any specific crimes.  
-* If you think you might cut it close making it to group on-time then take your workbook, a pencil, and phone with you so you can still participate.
+* If you think you might cut it close making it to group on-time then take your workbook, a pencil, an eraser, and phone with you so you can still participate.
 * Show up, even if you didn't complete your homework, to allow your weekly report to state you were "present" and "in compliance".
 * You're encouraged to CHIME IN when you have additional ideas about the portion of the module we're covering;  
   So ask clarifying questions and offer relevant & appropriate comments on answers given by others.
