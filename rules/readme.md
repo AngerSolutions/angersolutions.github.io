@@ -4,6 +4,7 @@ RULES FOR GROUP
 * _All rules subject to change without notice!_
 * Follow **ALL** directions **VERY** carefully.
 * When in doubt: **dial <a href="tel:5413832961">(541)383-2961</a>** and **leave a VOICE message.**
+* Payment MUST be received at least 2 hours before the group starts.
 
 
 📨 EMAIL
