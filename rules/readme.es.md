@@ -3,7 +3,7 @@ REGLAS PARA EL GRUPO
 
 * _Todas las reglas están sujetas a cambios sin previo aviso!_
 * Siga **TODAS** las instrucciones **MUY** cuidadosamente.
-* En caso de duda: **marcar <a href="tel:5413832961">(541)383-2961</a>** y **dejar un mensaje de VOZ.**
+* En caso de duda: **marcar <a href="tel:5413832961">(541)383-2961</a>** **y dejar un mensaje de VOZ.**
 * El pago DEBE recibirse al menos 2 horas antes de que comience el grupo.
 
 
