@@ -109,6 +109,7 @@ RULES FOR GROUP
     - "I warned them ..."
     - "I would've been late ..."
     - "It felt good ..."
+    - "I was busy ..."
 
 * ***BLAMING:***
     - "He took a swing at me ..."
