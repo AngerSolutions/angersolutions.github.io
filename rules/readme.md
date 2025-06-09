@@ -116,6 +116,7 @@ RULES FOR GROUP
     - "They stole from me ..."
     - "She started yelling at me ..."
     - "I was drunk ..."
+    - "I was busy ..."
 
 ---
 
