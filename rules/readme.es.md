@@ -106,12 +106,14 @@ Por lo tanto, haga preguntas aclaratorias y ofrezca comentarios relevantes y apr
   - "Les advertí ..."
   - "Habría llegado tarde ..."
   - "Me sentí bien ..."
+  - "Estaba ocupado ..."
 
 * ***CULPANDO:***
   - "Me dio un golpe ..."
   - "Me robaron ..."
   - "Empezó a gritarme ..."
   - "Estaba borracho ..."
+  - "Estaba ocupado ..."
 
 
 ---
