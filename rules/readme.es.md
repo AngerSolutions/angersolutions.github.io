@@ -42,7 +42,7 @@ REGLAS PARA EL GRUPO
 📶 CONEXIÓN
 ----------
 
-* Es su responsabilidad asegurarse de tener una conexión razonablemente estable para todas las actividades.
+* Es su responsabilidad asegurarse de tener una conexión razonablemente estable para todas las actividades (incluidas las llamadas telefónicas).
 * Se espera que su dispositivo esté enchufado en TODO momento.
   Si su batería se está agotando, NO interrumpa el grupo.
   Manéjalo por tu cuenta. NO es nuestro problema.
