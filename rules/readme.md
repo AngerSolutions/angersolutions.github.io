@@ -44,7 +44,7 @@ RULES FOR GROUP
 📶 CONNECTION
 -------------
 
-* It's your responsibility to ensure you have a reasonably stable connection for all activities.
+* It's your responsibility to ensure you have a reasonably stable connection for all activities (including phone calls).
 * Your device is expected to be plugged in, at ALL times.  
   If your battery is dying DON'T interrupt the group.  
   Handle it on your own. It's NOT our problem.  
