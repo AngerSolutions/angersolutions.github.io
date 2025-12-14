@@ -27,7 +27,7 @@ RULES FOR GROUP
 -----------
 
 * ALWAYS send ONE complete homework submission, EVERY week:
-  - To the group facilitator's email BEFORE group begins.
+  - To the **Group Facilitator**'s email BEFORE group begins.
   - In its very own fresh email --NOT in a reply to some other thread.
   - Subject line MUST include the module number.
   - Images of pages MUST be upright and COMPLETELY legible.
