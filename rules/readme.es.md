@@ -25,7 +25,7 @@ REGLAS PARA EL GRUPO
 ---------
 
 * SIEMPRE envíe UNA entrega de tarea completa, CADA semana:
-  - Al correo electrónico del facilitador del grupo ANTES de que comience el grupo.
+  - Al correo electrónico del **facilitador del grupo** ANTES de que comience el grupo.
   - En su propio correo electrónico fresco, NO en una respuesta a algún otro hilo.
   - La línea de asunto DEBE incluir el número de módulo.
   - Las imágenes de las páginas DEBEN estar en posición vertical y COMPLETAMENTE legibles.
