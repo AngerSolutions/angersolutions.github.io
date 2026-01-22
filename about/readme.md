@@ -17,7 +17,7 @@ Details about the program
 -------------------------
 
 * An on-boarding session; followed by a minimum of 8 weekly groups; Typically 1 - 2 hours in length.
-* **$25** for workbook; **$50** to onboard; **$30** per weekly group.
+* **$25** for a workbook; **$50** to onboard; **$30** per weekly group.
 * All groups are carried out through **online** meetings.  (Only available in Oregon, to Oregon residents, with cases in Oregon.)
 * New clients can drop into the group after receiving their workbook and completing an onboarding session.
 * The program **must be completed within 12 weeks** once a participant has attended their first group session.
