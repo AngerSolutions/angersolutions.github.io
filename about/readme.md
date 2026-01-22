@@ -1,9 +1,6 @@
 About Anger Solutions
 =====================
 
-Here are the details for the program...
----------------------------------------
-
 The _"Coping With Anger"_ anger management program is designed to
 assist each participant to develop an awareness of the impact of
 _"anger"_ in their life, develop an understanding of what causes
@@ -15,6 +12,9 @@ anger.  As with learning any new skills and behaviors, practice
 is an essential part of getting the most from this group.  
 
 It's expected that participants are willing and ready to confront thinking patterns, irrational beliefs, and inappropriate behaviors in response to feelings of anger -- and that they will commit to doing so.  
+
+Details about the program
+-------------------------
 
 * An on-boarding session; followed by a minimum of 8 weekly groups; Typically 1 - 2 hours in length.
 * **$25** for workbook; **$50** to onboard; **$30** per weekly group.
