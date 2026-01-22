@@ -4,19 +4,26 @@ About Anger Solutions
 Here are the details for the program...
 ---------------------------------------
 
-It's expected that participants are willing and ready to confront thinking patterns, irrational beliefs, and inappropriate behaviors in response to feelings of anger -- and that they will commit to doing so.
+The _"Coping With Anger"_ anger management program is designed to
+assist each participant to develop an awareness of the impact of
+_"anger"_ in their life, develop an understanding of what causes
+anger, and to provide each participant with some basic tools to
+manage anger more effectively.  The concepts and anger
+management tools presented in this group are evidence based and
+have demonstrated effectiveness in helping individuals manage
+anger.  As with learning any new skills and behaviors, practice
+is an essential part of getting the most from this group.  
 
+It's expected that participants are willing and ready to confront thinking patterns, irrational beliefs, and inappropriate behaviors in response to feelings of anger -- and that they will commit to doing so.  
 
-* One on-boarding session; followed by a minimum of 8 weekly classes; Typically 1 - 2 hours in length.
-* **$20** workbook; **$50** on-boarding; **$30** per weekly group x 8 (**12 groups max**).
-* The best way to contact me is: [anger.mgmt@protonmail.com](mailto:anger.mgmt@protonmail.com) or by leaving a voicemail: [541-383-2961](tel:5413832961)
-* You can drop into a group as soon as you've received your workbook and completed the on-boarding session.
-* Each group is ideally kept to around 4 people.
-* Everything is **100% online**. _Paper forms are mailed with the workbook for those who would prefer them._
-* The program **must be completed within 12 weeks** once participants have attended their first group session.
-*  It's rare for someone to completely fail out of the program. But **it's typical for each client to need to redo a module** or two which entails paying for and attending additional group sessions.
-* Group participants are encouraged to **reach out for help & clarification throughout the week**. _(At no extra cost!)_  So if one puts in the extra effort then they can minimize the likelihood of redoing a module.
+* An on-boarding session; followed by a minimum of 8 weekly groups; Typically 1 - 2 hours in length.
+* **$25** for workbook; **$50** to onboard; **$30** per weekly group.
+* All groups are carried out through **online** meetings.  (Only available in Oregon, to Oregon residents, with cases in Oregon.)
+* New clients can drop into the group after receiving their workbook and completing an onboarding session.
+* The program **must be completed within 12 weeks** once a participant has attended their first group session.
+* It's rare for a client to fail the program, but **typical to need to redo a module** or two, which entails paying for and attending additional group sessions.
+* Group participants are encouraged to **reach out for help & clarification throughout the week**.  _(At no extra cost!)_  If one puts in such effort they can minimize the likelihood of needing to redo a module.
 
-[Click here to start the onboarding process...](https://angersolutions.github.io/onboard)
+Please feel free to email [`anger.mgmt@protonmail.com`](mailto:anger.mgmt@protonmail.com) or call [`541-383-2961`](tel:541-383-2961) and leave a voice message if you have any questions!  
 
-Please feel free to [call](tel:541-383-2961) or [email](mailto:anger.mgmt@protonmail.com) if you have any questions! 
+[Click here to start the onboarding process...](https://angersolutions.github.io/onboard)  
