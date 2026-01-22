@@ -9,9 +9,9 @@ manage anger more effectively.  The concepts and anger
 management tools presented in this group are evidence based and
 have demonstrated effectiveness in helping individuals manage
 anger.  As with learning any new skills and behaviors, practice
-is an essential part of getting the most from this group.  
+is an essential part of getting the most from this group.
 
-It's expected that participants are willing and ready to confront thinking patterns, irrational beliefs, and inappropriate behaviors in response to feelings of anger -- and that they will commit to doing so.  
+It's expected that participants are willing and ready to confront thinking patterns, irrational beliefs, and inappropriate behaviors in response to feelings of anger -- and that they will commit to doing so.
 
 Details about the program
 -------------------------
@@ -24,6 +24,6 @@ Details about the program
 * It's rare for a client to fail the program, but **typical to need to redo a module** or two, which entails paying for and attending additional group sessions.
 * Group participants are encouraged to **reach out for help & clarification throughout the week**.  _(At no extra cost!)_  If one puts in such effort they can minimize the likelihood of needing to redo a module.
 
-Please feel free to email [`anger.mgmt@protonmail.com`](mailto:anger.mgmt@protonmail.com) or call [`541-383-2961`](tel:541-383-2961) and leave a voice message if you have any questions!  
+Please feel free to email [`anger.mgmt@protonmail.com`](mailto:anger.mgmt@protonmail.com) or call [`541-383-2961`](tel:541-383-2961) and leave a voice message if you have any questions!
 
-[Click here to start the onboarding process...](https://angersolutions.github.io/onboard)  
+[Click here to start the onboarding process...](https://angersolutions.github.io/onboard)
