@@ -1,9 +1,10 @@
 RULES FOR GROUP
 ===============
 
-* _All rules subject to change without notice!_
+_All rules subject to change without notice! (So review them weekly)_
+
 * Follow **ALL** directions **VERY** carefully.
-* When in doubt: **dial <a href="tel:5413832961">(541)383-2961</a>** and **leave a VOICE message.**
+* When in doubt: **dial <a href="tel:5413832961">(541) 383-2961</a>** and **leave a VOICE message.**
 * Payment MUST be received at least 2 hours before the group starts.
 
 
@@ -34,7 +35,7 @@ RULES FOR GROUP
   - ALWAYS print answers, DON'T use cursive, so it's easy to read.
   - ALWAYS use a pencil so answers are easy to change, as necessary.
 * Homework WON'T be "reviewed" after submission.  
-  You can iron out issues with homework, BEFORE submitting it, by asking specific questions.
+  Call and leave a voice message if you have any questions about the homework -- BEFORE submitting it.
 * Only ONE homework attachment is allowed, per week.  
   --THAT is your homework submission.
 * The previous week's assignment email submissions are NOT retained.
@@ -59,37 +60,36 @@ RULES FOR GROUP
 * This is NOT counseling;  
   This is NOT therapy;  
   The group facilitator is neither a counselor, nor a therapist.
-* You're strongly encouraged to use your initials, for your username, in this group.  
-  At most, please use only your first name and last initial.
+* Please use only your first name and last initial, for you displayed name, in meetings.
 * Always be respectful and on-time.  
   After 1 minute you're late;  
   After 5 minutes you're a no-show.
-* EVERYTHING DISCUSSED HERE SHOULD BE TAKEN AS CONFIDENTIAL;  
-  What's said in group should stay in group.  
-  Wear headphones if anyone is nearby.  
+* ANYTHING DISCUSSED SHOULD BE CONSIDERED CONFIDENTIAL;  
+  What others say in the group should stay in the group.  
+  Headphones are REQUIRED when anyone else might overhear the conversation.  
   However, confidentiality can NOT be guaranteed.  
   So do NOT admit to any specific crimes.  
 * If you think you might cut it close making it to group on-time then take your workbook, a pencil, an eraser, and phone with you so you can still participate.
 * Show up, even if you didn't complete your homework, to allow your weekly report to state you were "present" and "in compliance".
-* You're encouraged to CHIME IN when you have additional ideas about the portion of the module we're covering;  
-  So ask clarifying questions and offer relevant & appropriate comments on answers given by others.
+* You're encouraged to ask clarifying questions and offer relevant & appropriate comments on the topic we're covering;  
+* Keep your microphone muted, unless you're about to say something, to avoid audible distractions.  
 * Any disrespect to this group will REQUIRE AN APOLOGY.  
-  Absolutely NO THREATS and NO VIOLENCE.
+  Disrespect includes any interuption or distraction.  
+  If someone is speaking wait until an appropriate moment to offer the apology.
+  Absolutely NO THREATS and NO VIOLENCE will be tolerated.  
 * Do NOT violate ANY restraining orders or no-contact orders, ever, not even as part of an assignment.
-* **NO** arguing; **NO** excuses; Please **ASK** to explain.  
+* **NO** arguing; **NO** excuses  
+  **ASK** if you may explain -- before offering an explanation.  
   Continuing to argue will result in failure to progress.
-* When speaking, **FOCUS ON YOURSELF, NOT OTHERS.**  
-  YOU ARE THE PERPETRATOR, NOT THE VICTIM.
-* Follow the K.I.S.S. principle: _"Keep It Short & Simple"_  
-  This means **keep your answers as short & simple as possible.**  
+* While speaking **FOCUS ON YOURSELF, NOT OTHERS.**  
+* Follow the K.I.S.S. principle: _"Keep It Short & Straightforward"_  
+  This means **keep your answers as brief & frank as possible.**  
   --2 to 3 sentences is usually plenty! Let us ask for more information, if we need it.  
   Otherwise you'll probably end up exposing more than necessary.
 * Everybody has reasons...  
-  When speaking, **focus on WHAT YOU DID, NOT WHY you did it.**  
-  The group will decide when, if ever, to talk about the "why".  
-  --If we need to know why (ie. if we need to know the reason) then we will ask.
-* Giving "reasons" can lead to failure, unless they are specifically called for.  
-  (Otherwise they are just "excuses".  See next section.)
+  Giving "reasons" can lead to failure, unless they are specifically called for.  
+  If we need to know the reason then we will ask.  
+  (Reasons which don't provide value to the other party are "excuses" because they are used in an attempt to excuse misbehavior.  --See next section.)  
 
 
 🚯 EXCUSES ARE NEVER ALLOWED
