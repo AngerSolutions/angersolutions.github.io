@@ -68,7 +68,10 @@ _¡Todas las normas pueden cambiar sin previo aviso! (Así que revísalos semana
   Lo que digan los demás en el grupo debería quedarse en el grupo.  
   Los auriculares son OBLIGATORIOS cuando alguien más pueda escuchar la conversación.  
   Sin embargo, NO se puede garantizar la confidencialidad.  
-  Así que NO admitas ningún delito específico.  
+  Así que NO admitas ningún delito específico.
+* NUNCA dejes que nadie vea quién está en el grupo.  
+  Siempre oculta tu pantalla a la vista de los demás.
+* Si necesitas ir al baño o ayudar a alguien en tu ubicación, solo tienes que pedirlo.
 * Si cree que podría acercarse para llegar al grupo a tiempo, lleve consigo su libro de trabajo, un lápiz, una goma de borrar y el teléfono para que aún pueda participar.
 * Preséntese, incluso si no completó su tarea, para permitir que su informe semanal indique que estuvo "presente" y "en cumplimiento".
 * Tu es anima a hacer preguntas aclaratorias y a ofrecer comentarios relevantes y apropiados sobre el tema que estamos tratando.
