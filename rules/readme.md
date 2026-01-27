@@ -68,7 +68,10 @@ _All rules subject to change without notice! (So review them weekly)_
   What others say in the group should stay in the group.  
   Headphones are REQUIRED when anyone else might overhear the conversation.  
   However, confidentiality can NOT be guaranteed.  
-  So do NOT admit to any specific crimes.  
+  So do NOT admit to any specific crimes.
+* NEVER let anyone see who is in the group.  
+  Always hide your screen from the view of others.
+* If you need to use the restroom, or assist someone at your location, just ask.
 * If you think you might cut it close making it to group on-time then take your workbook, a pencil, an eraser, and phone with you so you can still participate.
 * Show up, even if you didn't complete your homework, to allow your weekly report to state you were "present" and "in compliance".
 * You're encouraged to ask clarifying questions and offer relevant & appropriate comments on the topic we're covering;  
