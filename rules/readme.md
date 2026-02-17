@@ -77,7 +77,7 @@ _All rules subject to change without notice! (So review them weekly)_
 * You're encouraged to ask clarifying questions and offer relevant & appropriate comments on the topic we're covering;  
 * Keep your microphone muted, unless you're about to say something, to avoid audible distractions.  
 * Any disrespect to this group will REQUIRE AN APOLOGY.  
-  Disrespect includes any interuption or distraction.  
+  Disrespect includes any interruption or distraction.  
   If someone is speaking wait until an appropriate moment to offer the apology.  
   Absolutely NO THREATS and NO VIOLENCE will be tolerated.  
 * Do NOT violate ANY restraining orders or no-contact orders, ever, not even as part of an assignment.
