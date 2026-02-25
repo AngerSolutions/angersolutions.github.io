@@ -60,7 +60,7 @@ _All rules subject to change without notice! (So review them weekly)_
 * This is NOT counseling;  
   This is NOT therapy;  
   The group facilitator is neither a counselor, nor a therapist.
-* Please use only your first name and last initial, for you displayed name, in meetings.
+* Please use only your first name and last initial, for your displayed name, in meetings.
 * Always be respectful and on-time.  
   After 1 minute you're late;  
   After 5 minutes you're a no-show.
