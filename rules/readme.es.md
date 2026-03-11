@@ -105,6 +105,7 @@ _¡Todas las normas pueden cambiar sin previo aviso! (Así que revísalos semana
   - "Apenas alcé la voz ..."
   - "Solo me enfadé un poco ..."
   - "Lo hice mejor de lo que suelo hacerlo ..."
+  - "Solo fue un pequeño error ..."
 
 * ***JUSTIFICAR:***
   - "Ya había intentado ser paciente con ellos ..."
