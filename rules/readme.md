@@ -105,6 +105,7 @@ _All rules subject to change without notice! (So review them weekly)_
     - "I barely raised my voice ..."
     - "I only got a little upset ..."
     - "I did better than I usually do ..."
+    - "It was just one little mistake ..."
 
 * ***JUSTIFYING:***
     - "I'd already tried being patient with them ..."
