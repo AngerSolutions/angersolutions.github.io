@@ -16,7 +16,7 @@
             font-family: sans-serif
         }
 
-        .fa-users, .fa-coffee {
+        .fa-users {
             font-size: 200px
         }
     </style>
@@ -66,11 +66,17 @@
 
 <!-- Header -->
 <header class="w3-container w3-blue w3-center" style="padding:128px 16px">
-    <h1 class="w3-margin w3-jumbo">Anger Solutions</h1>
-    <p class="w3-xlarge">Anger Management in Bend, Oregon</p>
-    <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button>
-    <p>Phone: <a href="tel:5413832961">541-383-2961</a></p>
-    <p>Email: <a href="mailto:anger.mgmt@protonmail.com">anger.mgmt@protonmail.com</a></p>
+    <h1 class="w3-margin w3-jumbo" style="color:gold">Anger Solutions</h1>
+    <p><em>Anger Management in Bend, Oregon</em></p>
+    <!-- <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button> -->
+    <p class="w3-xlarge">
+        <i class="fa fa-phone" aria-hidden="true"></i>
+        <a href="tel:5413832961" aria-label="phone">541-383-2961</a>
+    </p>
+    <p class="w3-xlarge">
+        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+        <a href="mailto:anger.mgmt@protonmail.com" aria-label="email">anger.mgmt@protonmail.com</a>
+    </p>
 </header>
 
 <!-- First Grid -->
@@ -107,7 +113,7 @@
         </div>
 
         <div class="w3-third w3-center">
-            <i class="fa fa-users w3-padding-64 w3-text-blue"></i>
+            <i class="fa fa-users w3-padding-64 w3-text-blue" aria-hidden="true"></i>
         </div>
     </div>
 </div>
