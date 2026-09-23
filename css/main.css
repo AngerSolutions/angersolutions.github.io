@@ -1,0 +1,23 @@
+/** {
+    outline: 1px red solid;
+}*/
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Trebuchet MS", "Times New Roman", Times, serif;
+}
+
+.w3-bar, button {
+    font-family: sans-serif;
+}
+
+.section-icon {
+    font-size: 200px;
+    color: rgb(33, 150, 243);
+}
+
+#logo {
+    color: gold;
+    font-size: 64px;
+    font-weight: 800;
+    margin: 0px
+}

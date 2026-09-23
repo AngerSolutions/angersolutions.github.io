@@ -7,32 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/css/w3v4.css">
     <link rel="stylesheet" href="/css/font-awesome.min.css">
-
-    <style>
-        body, h1, h2, h3, h4, h5, h6 {
-            font-family: "Trebuchet MS", "Times New Roman", Times, serif;
-        }
-
-        .w3-bar, button {
-            font-family: sans-serif
-        }
-
-        .fa-users {
-            font-size: 200px
-        }
-    </style>
-
-    <script>
-    // Used to toggle the menu on small screens when clicking on the menu button
-    function myFunction() {
-        var x = document.getElementById("navDemo");
-        if (x.className.indexOf("w3-show") == -1) {
-            x.className += " w3-show";
-        } else {
-            x.className = x.className.replace(" w3-show", "");
-        }
-    }
-    </script>
+    <link rel="stylesheet" href="/css/main.css">
+    <script type="text/javascript" src="/js/main.js"></script>
 </head>
 
 <body>
@@ -66,8 +42,8 @@
 </div>
 
 <!-- Header -->
-<header class="w3-container w3-blue w3-center" style="padding:128px 16px">
-    <h1 class="w3-jumbo" style="color:gold;font-weight:800;margin:0px">Anger Solutions</h1>
+<header class="w3-container w3-blue w3-center" style="padding: 64px 8px">
+    <h1 id="logo">Anger Solutions</h1>
     <p><em>Online Anger Management in Central, Oregon</em></p>
     <!-- <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button> -->
     <p class="w3-large">
@@ -105,7 +81,7 @@
         </div>
 
         <div class="w3-third w3-center">
-            <i class="fa fa-users w3-padding-64 w3-text-blue" aria-hidden="true"></i>
+            <i class="fa fa-users w3-padding-64 section-icon" aria-hidden="true"></i>
         </div>
     </div>
 </div>
